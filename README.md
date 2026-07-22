@@ -326,12 +326,12 @@ The project generates
 
 | Optimizer | Accuracy Before | Accuracy After |
 |-----------|----------------:|---------------:|
-| Adam | 98.65% | 98.41% |
-| SGD | 97.82% | 97.55% |
-| RMSprop | 98.72% | 98.53% |
-| Adagrad | 97.96% | 97.61% |
-| Adamax | 98.54% | 98.29% |
-| Nadam | 98.69% | 98.46% |
+| Adam | 97.62% | 97.53% |
+| SGD | 92.74% | 92.27% |
+| RMSprop | 97.51% | 97.51% |
+| Adagrad | 88.82% | 87.58% |
+| Adamax | 97.3% | 97.24% |
+| Nadam | 97.43% | 97.22% |
 
 ---
 
